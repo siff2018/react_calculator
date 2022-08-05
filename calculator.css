@@ -1,0 +1,57 @@
+button {
+    font-size: 1rem;
+    width: 30px;
+    border: 1px solid #d6d6d6;
+  }
+  
+  .App {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .display {
+    width: 40%;
+    height: 20px;
+    align-self: center;
+    background: lightgray;
+    padding: 10px;
+    border-radius: 6px;
+  }
+  
+  .expression {
+    height: 450px;
+    color: rgb(170, 170, 170);
+  }
+  
+  .panel {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .numbers {
+    display: flex;
+    flex-flow: wrap;
+    flex-wrap: wrap;
+    justify-items: stretch;
+    width: 90px;
+  }
+  
+  .numbers button:last-child {
+    width: 100%;
+  }
+  
+  .operators {
+    display: flex;
+    flex-flow: column;
+  }
+  
+  .operators button {
+    color: white;
+    background: #3a54ff;
+    border-left: none;
+    border-bottom: 0;
+  }
+  
