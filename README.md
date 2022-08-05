@@ -2,7 +2,7 @@
 
 This mini project is just focus how to create a calculator in framework react.
 
-[](/assets/images/calculator_png.png)
+[picture](/assets/images/calculator_png.png)
 
 ## Available Scripts
 
