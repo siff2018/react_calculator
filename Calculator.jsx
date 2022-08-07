@@ -37,11 +37,11 @@ const Calculator  = () => {
 
   return (
     <div className="App">
-      <h3 className="display">{display}</h3>
+      <h3 className="display green">{display}</h3>
 
       <span className="expression">{expression}</span>
 
-      <section className="panel yellow">
+      <section className="panel">
         {/* buttons */}
         <section className="numbers">
           <button onClick={() => handleClick(7)}>7</button>
