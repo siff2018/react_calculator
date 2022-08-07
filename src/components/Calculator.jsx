@@ -43,7 +43,7 @@ const Calculator  = () => {
 
       <section className="panel">
         {/* buttons */}
-        <section className="numbers">
+        <section className="numbers specialCode ">
           <button onClick={() => handleClick(7)}>7</button>
           <button onClick={() => handleClick(8)}>8</button>
           <button onClick={() => handleClick(9)}>9</button>
@@ -67,6 +67,7 @@ const Calculator  = () => {
           <button onClick={() => handleOutcome()}>=</button>
         </section>
       </section>
+      <h1> Calculator</h1>
     </div>
   );
 }
