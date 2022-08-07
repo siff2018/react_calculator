@@ -59,7 +59,7 @@ const Calculator  = () => {
           <button onClick={() => handleClick(0)}>0</button>
         </section>
 
-        <section className="operators">
+        <section className="operators specialOperators">
           <button onClick={() => handleClick("÷")}>÷</button>
           <button onClick={() => handleClick("x")}>x</button>
           <button onClick={() => handleClick("-")}>-</button>
