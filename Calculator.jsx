@@ -37,7 +37,7 @@ const Calculator  = () => {
 
   return (
     <div className="App">
-      <h3 className="display yelloo">{display}</h3>
+      <h3 className="display ">{display}</h3>
 
       <span className="expression">{expression}</span>
 
