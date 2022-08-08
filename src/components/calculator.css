@@ -10,6 +10,7 @@ button {
     width: 100%;
     font-family: sans-serif;
     text-align: center;
+    font-size: auto;
   }
   
   .display {
