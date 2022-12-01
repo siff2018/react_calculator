@@ -2,7 +2,7 @@ text
 bird
 hero
 hamster
-33
+3
 
 
 
