@@ -1,7 +1,7 @@
 text
 bird
 hero
-hamster
+hamste
 
 11
 
