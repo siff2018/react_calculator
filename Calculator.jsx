@@ -42,7 +42,7 @@ const Calculator  = () => {
       <span className="expression">{expression}</span>
 
       <section className="panel">
-        {/* buttons */}
+        {/* buttons  */}
         <section className="numbers">
           <button onClick={() => handleClick(7)}>7</button>
           <button onClick={() => handleClick(8)}>8</button>
