@@ -1,7 +1,10 @@
 text
 bird
 hero
-hamste
+hams
+miscelea
+
+coercion
 
 1
 va
