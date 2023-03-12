@@ -8,7 +8,7 @@ coercion
 
 1;
 va
-''d22;
+''d22;d
 3
 ;
 3
