@@ -23,6 +23,3 @@ d
 dd
 king
 2
-y
-y
-y
