@@ -23,6 +23,6 @@ d
 dd
 king
 2
-bind
+bind()
 aply
 call
