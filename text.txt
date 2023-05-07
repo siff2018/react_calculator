@@ -25,4 +25,4 @@ king
 2
 bind(
 aply(
-call(
+call
