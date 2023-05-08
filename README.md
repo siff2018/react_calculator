@@ -2,5 +2,5 @@
 mini calculator
 0
 bind()
-apply(
+apply()
 call
