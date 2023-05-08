@@ -2,3 +2,4 @@
 mini calculator
 0
 bind
+apply
