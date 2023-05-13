@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./calculator.css";
 import ReactDOM from "react-dom";
 
-///ddddd
+
 const Calculator  = () => {
   const [display, setDisplay] = useState("");
   const [expression, setExpression] = useState([]);
