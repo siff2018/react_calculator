@@ -26,4 +26,4 @@ king
 bind
 aply
 call
-2
+22
