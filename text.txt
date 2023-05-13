@@ -20,7 +20,6 @@ d
 d0
 d
 d
-dd
 king
 2
 bind
