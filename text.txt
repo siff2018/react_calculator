@@ -21,7 +21,7 @@ d0
 d
 d
 king
-2
+2d
 bind
 aply
 call
