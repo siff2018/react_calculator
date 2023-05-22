@@ -6,8 +6,3 @@ miscelea
 h
 coercion
 
-d
-dd
-d
-d
-d
