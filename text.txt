@@ -5,9 +5,3 @@ hams
 miscelea
 h
 coercion
-
-dd
-d
-dd
-d
-d
