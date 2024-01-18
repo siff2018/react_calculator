@@ -4,7 +4,7 @@ mini calculator
 sq
 sq
 sq
-s
+sq
 s
 s
 s
