@@ -1,7 +1,7 @@
 # react_calculator
 mini calculator
 
-s
+sq
 s
 s
 s
