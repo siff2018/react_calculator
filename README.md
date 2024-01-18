@@ -2,7 +2,7 @@
 mini calculator
 
 sq
-s
+sq
 s
 s
 s
