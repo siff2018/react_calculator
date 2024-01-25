@@ -4,5 +4,5 @@ mini calculator
 
 rr
 rr
-r
+rr
 rr
